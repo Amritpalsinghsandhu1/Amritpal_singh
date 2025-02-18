@@ -17,25 +17,19 @@ I'm a **Machine Learning Analyst student at NorQuest College** passionate about 
 - Explored **explainable AI** and its impact on decision-making.
 - Implemented an **XAI model** using SHAP & LIME.
 - **Tech stack:** Python, Scikit-learn, SHAP, LIME
-- 📌 [GitHub Repo](#)
+
 
 ### 2️ [Project Name - UBI & Technological Unemployment Analysis](#)
 - Conducted **data analysis on employment trends** related to AI automation.
 - Utilized **statistical modeling & visualization** for insights.
 - **Tech stack:** Python, Pandas, Seaborn, Jupyter Notebook
-- 📌 [GitHub Repo](#)
 
-### 3️ [Project Name - AI & Bias Detection](#)
+
+### 3️ [Project Name - predicted proportion of nitrate ions to ammonia releases from waste water treatment plants in 2023](#)
 - Developed an algorithm to **detect bias in ML models**.
 - Implemented fairness metrics and debiasing techniques.
 - **Tech stack:** Python, Fairlearn, TensorFlow, Scikit-learn
-- 📌 [GitHub Repo](#)
-
-- #### 4   [Project Name - ](#) 
+ 
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](#)
-- 📝 [Personal Blog](#)
 - 📧 Email: amritsandhu4333@gmail.com
-
-🚀 Always learning, building, and exploring new possibilities in AI & data science!
